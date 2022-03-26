@@ -8,3 +8,6 @@
 spwnky/spwnky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Nice util to customize readme files
+https://pufler.dev/git-badges/
